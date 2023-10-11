@@ -1,0 +1,10 @@
+Customer: rayhan
+Date: 8/10/23
+Number of Items: 2
+Item: alu
+Price: 320.00
+Quantity: 2
+Item: piyaj
+Price: 25.00
+Quantity: 2
+
